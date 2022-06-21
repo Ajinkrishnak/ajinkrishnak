@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://ajinkrishnak.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%23FF0000.svg?&style=flat&logo=Website&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ajinkrishna-k-796225194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkrishna-k" height="30" width="40" /></a>
 <a href="https://fb.com/ajinkrishna.monu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajinkrishna" height="30" width="40" /></a>
  <a href="mailto:ajinkrishna296@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="ajinkrishna296" height="30" width="40" /></a>
