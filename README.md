@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm AjinkrishnaK</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
